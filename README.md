@@ -1,1 +1,1 @@
-As a data science intern at Prodigy Infotech, the task was to analyze and visualize sentiment patterns in social media data to understand public opinion and attitudes towards specific topics or brands.
+As a data science intern at Prodigy Infotech, the task was to perform data cleaning and exploratory data analysis (EDA) on a dataset of your choice, such as the Titanic dataset from Kaggle. Explore the relationships between variables and identify patterns and trends in the data.
